@@ -1,1 +1,1 @@
-# repaso-rsg
+# Repaso de el curso RSG
